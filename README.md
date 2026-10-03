@@ -400,7 +400,7 @@ Since the decoder has only 8 possible input combinations, multiple combinations 
 # Tools Used
 
 * **SystemVerilog**
-* **ModelSim / QuestaSim** or any SystemVerilog-compatible simulator
+* **ModelSim / QuestaSim**
 * **Git / GitHub**
 
 ---
